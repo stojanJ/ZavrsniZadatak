@@ -41,7 +41,7 @@ try {
 
 <main role="main" class="container">
 <?php
-$sql = "SELECT * FROM posts ORDER BY created_at DESC ";
+$sql = "SELECT * FROM posts ORDER BY created_at DESC";
 $statement = $conn->prepare($sql);
 $statement->execute();
 $statement->setFetchMode(PDO::FETCH_ASSOC);
