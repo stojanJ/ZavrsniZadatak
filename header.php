@@ -3,9 +3,9 @@
 <div class="blog-masthead">
         <div class="container">
             <nav class="nav">
-                <a class="nav-link active" href="#">Home</a>
-                <a class="nav-link" href="#">New features</a>
-                <a class="nav-link" href="#">Press</a>
+                <a class="nav-link" href="posts.php">Posts</a>
+                <a class="nav-link" href="create-author.php">Create author</a>
+                <a class="nav-link" href="create-post.php">Create posts</a>
                 <a class="nav-link" href="#">New hires</a>
                 <a class="nav-link" href="#">About</a>
             </nav>
